@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+   
+}
+body{
+    text-align: center;
+}
+/*.tab{
+    display: none;
+}*/
+
+/*h1{
+    text-align: center;
+    color: white;
+}*/
+h1::first-letter{
+    color: orangered;
+}
+
+h3{
+    text-align: center;
+    margin-top: 2em;
+}
+h3::first-letter{
+    color: orangered;
+} 
+
+span{
+    color: orangered;
+       
+}
+.ip input{
+    width: 40%;
+    border-radius: 5px;
+    padding: 7px;
+}
